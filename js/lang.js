@@ -1,0 +1,38 @@
+window.I18N_CA = {
+  skip: 'Saltar al contingut', n1: 'La carta', n2: 'La taula', n3: 'El local', n4: 'Vine',
+  h1a: 'Cafè d’especialitat', h1b: 'i brunch al Barri Vell',
+  hp: 'Esmorzars, brunch i dinars amb cafè d’especialitat. Cada dia de 8:00 a 16:00 al carrer del Bellaire.',
+  carta: 'Veure la carta', come: 'Com arribar-hi', aHero: 'Tassa groga de cafè d’especialitat servida sobre la barra d’acer',
+  ih: 'Un cafè ben fet, un plat bonic i una taula al sol. Així comencen els bons dies a Girona.',
+  ip1: 'Comencem el dia amb cafè d’especialitat i la cuina és oberta fins a les 15:00: brunch, torrades, plats per dinar i alguna cosa dolça.',
+  f1: 'a Google · 614 ressenyes', f2: 'seguidors a Instagram', f3: 'obert cada dia',
+  ch: 'De la cuina', full: 'Carta completa →',
+  a1: 'Plat de brunch amb ous remenats, salmó, pa de sègol i formatge', a2: 'Croissants al sol en un plat sobre un banc de fusta', a3: 'Torrada de pa de massa mare amb formatge fresc, cogombre i herbes', a4: 'Bol de iogurt amb granola i fruita sobre una taula de pedra', a5: 'Cambrer amb davantal blau aguantant un pastís a la porta', a6: 'Plat amb wrap servit per un cambrer de La Comuna',
+  c1: 'Plat de brunch', c3: 'Torrada de massa mare', c4: 'Iogurt amb granola', c5: 'Alguna cosa dolça', c6: 'Dinars',
+  mh: 'Demana per compartir', mp: 'Cafè, alguna cosa dolça, alguna cosa salada. La taula s’omple sola.',
+  p1: 'Torrada amb ou poché', p2: 'Croissants', p3: 'Plat de brunch', p4: 'Iogurt amb granola', p5: 'Cafè d’especialitat', p6: 'Torrada de massa mare',
+  aL1: 'Gerro verd amb flors de colors al costat de la pica de la barra', lh: 'Llum, flors i blau',
+  lp: 'Un local petit i lluminós al cor del Barri Vell, amb barra al costat de la finestra, flors a la barra i l’equip de davantal blau.',
+  aL2: 'Clienta asseguda a la barra al costat de la finestra de La Comuna', aL3: 'L’equip de La Comuna amb samarretes blanques amb el logo',
+  d1: 'Horari', d1v: 'Cada dia de 8:00 a 16:00. Cuina fins a les 15:00.', d2: 'On', d2v: 'Barri Vell de Girona, 17004',
+  lg1: 'Avís legal', lg2: 'Privacitat', lg3: 'Galetes', lg4: 'Configurar galetes'
+};
+window.I18N_EN = {
+  skip: 'Skip to content', n1: 'Menu', n2: 'The table', n3: 'The place', n4: 'Visit us',
+  h1a: 'Specialty coffee', h1b: 'and brunch in the Old Town',
+  hp: 'Breakfast, brunch and lunch with specialty coffee. Every day from 8 am to 4 pm on Carrer del Bellaire.',
+  carta: 'See the menu', come: 'Get directions', aHero: 'Yellow cup of specialty coffee on the steel counter',
+  ih: 'Good coffee, a beautiful plate and a table in the sun. That is how good days start in Girona.',
+  ip1: 'We start the day with specialty coffee and the kitchen is open until 3 pm: brunch, toasts, lunch plates and something sweet.',
+  f1: 'on Google · 614 reviews', f2: 'followers on Instagram', f3: 'open every day',
+  ch: 'From the kitchen', full: 'Full menu →',
+  a1: 'Brunch plate with scrambled eggs, salmon, rye bread and cheese', a2: 'Croissants in the sun on a plate on a wooden bench', a3: 'Sourdough toast with fresh cheese, cucumber and herbs', a4: 'Bowl of yoghurt with granola and fruit on a stone table', a5: 'Waiter in a blue apron holding a cake at the door', a6: 'Plate with a wrap served by a La Comuna waiter',
+  c1: 'Brunch plate', c3: 'Sourdough toast', c4: 'Yoghurt with granola', c5: 'Something sweet', c6: 'Lunch',
+  mh: 'Order to share', mp: 'Coffee, something sweet, something savoury. The table fills itself.',
+  p1: 'Toast with poached egg', p2: 'Croissants', p3: 'Brunch plate', p4: 'Yoghurt with granola', p5: 'Specialty coffee', p6: 'Sourdough toast',
+  aL1: 'Green vase with colourful flowers next to the counter sink', lh: 'Light, flowers and blue',
+  lp: 'A small, bright place in the heart of the Old Town, with a window counter, flowers on the bar and the team in blue aprons.',
+  aL2: 'Customer sitting at the window counter in La Comuna', aL3: 'The La Comuna team in white T-shirts with the logo',
+  d1: 'Opening hours', d1v: 'Every day from 8 am to 4 pm. Kitchen until 3 pm.', d2: 'Where', d2v: 'Girona Old Town, 17004',
+  lg1: 'Legal notice', lg2: 'Privacy', lg3: 'Cookies', lg4: 'Cookie settings'
+};
